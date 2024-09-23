@@ -5,7 +5,7 @@ from os import getenv
 
 API_ID = int(getenv("API_ID", "20901045"))
 API_HASH = getenv("API_HASH", "dec03cafafbd892b285499762a896082")
-BOT_TOKEN = getenv("BOT_TOKEN", "7750523801:AAEvAdBjuxPnB8bky1cifgFeLuMuvTVANME")
+BOT_TOKEN = getenv("BOT_TOKEN", "7274061059:AAFA0UVMkUzY8L8D2ecT2wtW0p8C_mFubVo")
 OWNER_ID = int(getenv("OWNER_ID", "6324457826"))
 MONGODB_CONNECTION_STRING = getenv("MONGO_DB", "mongodb+srv://Anokha:dbLifeline@cluster0.fvmpg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 LOG_GROUP = int(getenv("LOG_GROUP", "-1002238401216"))
